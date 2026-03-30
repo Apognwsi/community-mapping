@@ -16896,3 +16896,12 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping: []
+
+    - malid: 63833
+      title: Baki-dou Part 2
+      type: ona
+      tvdbid: 467753
+      tvdbseason: 1
+      start: 14
+      useMapping: false
+      animeMapping: []
