@@ -2762,6 +2762,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 6948
+      title: Bakemonogatari Recap
+      type: tv_special
+      tvdbid: 102261
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 6980
       title: Kaidan Restaurant
       type: tv
@@ -3029,6 +3038,15 @@ AnimeMap:
       tvdbid: 244061
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 9260
+      title: 'Kizumonogatari I: Tekketsu-hen'
+      type: movie
+      tvdbid: 102261
+      tvdbseason: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -3726,6 +3744,15 @@ AnimeMap:
       tvdbid: 245821
       tvdbseason: 3
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 15689
+      title: 'Nekomonogatari: Kuro'
+      type: tv_special
+      tvdbid: 102261
+      tvdbseason: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -5538,6 +5565,24 @@ AnimeMap:
       tvdbid: 269319
       tvdbseason: 4
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 31757
+      title: 'Kizumonogatari II: Nekketsu-hen'
+      type: movie
+      tvdbid: 102261
+      tvdbseason: 0
+      start: 19
+      useMapping: false
+      animeMapping: []
+
+    - malid: 31758
+      title: 'Kizumonogatari III: Reiketsu-hen'
+      type: movie
+      tvdbid: 102261
+      tvdbseason: 0
+      start: 20
       useMapping: false
       animeMapping: []
 
