@@ -4039,6 +4039,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 18177
+      title: 'Yowamushi Pedal: Special Ride'
+      type: ova
+      tvdbid: 272309
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 18179
+      title: Yowamushi Pedal
+      type: tv
+      tvdbid: 272309
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 18277
       title: Strike the Blood
       type: tv
@@ -4947,6 +4965,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 25755
+      title: 'Yowamushi Pedal: Re:Ride'
+      type: movie
+      tvdbid: 272309
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
     - malid: 25777
       title: Shingeki no Kyojin Season 2
       type: tv
@@ -5423,6 +5450,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 30413
+      title: Yowamushi Pedal Movie
+      type: movie
+      tvdbid: 272309
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
+
     - malid: 30458
       title: 'Tokyo Ghoul: "Jack"'
       type: ova
@@ -5484,6 +5520,15 @@ AnimeMap:
       tvdbid: 114801
       tvdbseason: 0
       start: 12
+      useMapping: false
+      animeMapping: []
+
+    - malid: 30790
+      title: 'Yowamushi Pedal: Re:Road'
+      type: movie
+      tvdbid: 272309
+      tvdbseason: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -5709,6 +5754,15 @@ AnimeMap:
       tvdbid: 293088
       tvdbseason: 0
       start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 31783
+      title: 'Yowamushi Pedal: New Generation'
+      type: tv
+      tvdbid: 272309
+      tvdbseason: 3
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -6063,6 +6117,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 33302
+      title: 'Yowamushi Pedal: Spare Bike'
+      type: movie
+      tvdbid: 272309
+      tvdbseason: 0
+      start: 5
+      useMapping: false
+      animeMapping: []
+
     - malid: 33338
       title: 'One Piece: Heart of Gold'
       type: tv_special
@@ -6114,6 +6177,15 @@ AnimeMap:
       tvdbid: 283947
       tvdbseason: 0
       start: 14
+      useMapping: false
+      animeMapping: []
+
+    - malid: 33522
+      title: 'Chiba Pedal: Yowamushi Pedal to Manabu Jitensha Koutsuu Anzen'
+      type: cm
+      tvdbid: 272309
+      tvdbseason: 0
+      start: 7
       useMapping: false
       animeMapping: []
 
@@ -6630,6 +6702,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 35789
+      title: 'Yowamushi Pedal: Glory Line'
+      type: tv
+      tvdbid: 272309
+      tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 35790
       title: Tate no Yuusha no Nariagari
       type: tv
@@ -6690,6 +6771,15 @@ AnimeMap:
       tvdbid: 337936
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 35880
+      title: 'Yowamushi Pedal: Re:Generation'
+      type: movie
+      tvdbid: 272309
+      tvdbseason: 0
+      start: 13
       useMapping: false
       animeMapping: []
 
@@ -10111,6 +10201,15 @@ AnimeMap:
       tvdbid: 305074
       tvdbseason: 0
       start: 12
+      useMapping: false
+      animeMapping: []
+
+    - malid: 50552
+      title: 'Yowamushi Pedal: Limit Break'
+      type: tv
+      tvdbid: 272309
+      tvdbseason: 5
+      start: 0
       useMapping: false
       animeMapping: []
 
