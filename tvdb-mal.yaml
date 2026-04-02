@@ -5449,6 +5449,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 4483
+      title: 'Mahoutsukai ni Taisetsu na Koto: Natsu no Sora'
+      type: tv
+      tvdbid: 82653
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 4535
       title: 'Candy Boy: Nonchalant Talk of the Certain Twin Sisters in Daily Life'
       type: ona
