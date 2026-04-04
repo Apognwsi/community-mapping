@@ -5366,6 +5366,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 3455
+      title: To LOVE-Ru
+      type: tv
+      tvdbid: 81831
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 3456
       title: 'Candy☆Boy: Side Story For Archive'
       type: ona
@@ -5839,6 +5848,15 @@ AnimeMap:
       type: tv
       tvdbid: 88651
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 5667
+      title: To LOVE-Ru OVA
+      type: ova
+      tvdbid: 81831
+      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
@@ -7497,6 +7515,24 @@ AnimeMap:
       tvdbid: 194961
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 13663
+      title: To LOVE-Ru Darkness
+      type: tv
+      tvdbid: 81831
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 13851
+      title: To LOVE-Ru Darkness OVA
+      type: ova
+      tvdbid: 81831
+      tvdbseason: 0
+      start: 7
       useMapping: false
       animeMapping: []
 
@@ -9592,6 +9628,15 @@ AnimeMap:
         - tvdbseason: 7
           start: 266
 
+    - malid: 28979
+      title: To LOVE-Ru Darkness 2nd
+      type: tv
+      tvdbid: 81831
+      tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 29067
       title: Danna ga Nani wo Itteiru ka Wakaranai Ken 2 Sure-me
       type: tv
@@ -9908,6 +9953,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 31380
+      title: To LOVE-Ru Darkness 2nd OVA
+      type: ova
+      tvdbid: 81831
+      tvdbseason: 0
+      start: 13
+      useMapping: false
+      animeMapping: []
+
     - malid: 31389
       title: 'Fate/stay night: Unlimited Blade Works 2nd Season - Sunny Day'
       type: special
@@ -10013,6 +10067,15 @@ AnimeMap:
       tvdbid: 269319
       tvdbseason: 4
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 31711
+      title: To LOVE-Ru Darkness 2nd Specials
+      type: special
+      tvdbid: 81831
+      tvdbseason: 4
+      start: 13
       useMapping: false
       animeMapping: []
 
@@ -11399,6 +11462,15 @@ AnimeMap:
       tvdbid: 337122
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 35000
+      title: 'To LOVE-Ru: Multiplication - Mae kara Ushiro kara'
+      type: ova
+      tvdbid: 81831
+      tvdbseason: 0
+      start: 16
       useMapping: false
       animeMapping: []
 
@@ -17367,6 +17439,15 @@ AnimeMap:
       tvdbid: 329822
       tvdbseason: 3
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 51193
+      title: Momo no Rakuen Keikaku Maruhi File
+      type: special
+      tvdbid: 81831
+      tvdbseason: 0
+      start: 17
       useMapping: false
       animeMapping: []
 
