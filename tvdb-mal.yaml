@@ -160,6 +160,8 @@ AnimeMap:
           start: 892
         - tvdbseason: 22
           start: 1086
+        - tvdbseason: 23
+          start: 1156
 
     - malid: 22
       title: Tennis no Oujisama
