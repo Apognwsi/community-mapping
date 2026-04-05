@@ -24724,6 +24724,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 63266
+      title: Tensei Akujo no Kuro Rekishi OVA
+      type: ova
+      tvdbid: 446238
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 63276
       title: Candy Caries
       type: tv
