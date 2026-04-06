@@ -5493,6 +5493,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 3868
+      title: 'Versailles no Bara: Seimei Aru Kagiri Aishite'
+      type: movie
+      tvdbid: 80504
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
     - malid: 3901
       title: Baccano! Specials
       type: special
@@ -6492,6 +6501,15 @@ AnimeMap:
       type: tv
       tvdbid: 150461
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 7861
+      title: Versailles no Bara to Onna-tachi
+      type: special
+      tvdbid: 80504
+      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
@@ -18039,6 +18057,15 @@ AnimeMap:
       tvdbid: 316842
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 52967
+      title: Versailles no Bara (Movie)
+      type: movie
+      tvdbid: 80504
+      tvdbseason: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
