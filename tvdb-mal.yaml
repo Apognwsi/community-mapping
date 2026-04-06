@@ -21183,6 +21183,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 58592
+      title: 'Tensei shitara Slime Datta Ken 3rd Season: Kanwa - Diablo Nikki'
+      type: tv_special
+      tvdbid: 352408
+      tvdbseason: 0
+      start: 13
+      useMapping: false
+      animeMapping: []
+
     - malid: 58600
       title: Ameku Takao no Suiri Karte
       type: tv
@@ -22044,6 +22053,15 @@ AnimeMap:
       tvdbid: 423075
       tvdbseason: 0
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59493
+      title: 'Tensei shitara Slime Datta Ken: Kanwa - Luminous Memories'
+      type: tv_special
+      tvdbid: 352408
+      tvdbseason: 0
+      start: 14
       useMapping: false
       animeMapping: []
 
