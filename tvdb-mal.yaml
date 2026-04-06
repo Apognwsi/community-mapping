@@ -3713,6 +3713,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 793
+      title: 'xxxHOLiC Movie: Manatsu no Yoru no Yume'
+      type: movie
+      tvdbid: 79283
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 797
       title: Hanaukyou Maid-tai OVA
       type: ova
@@ -3851,6 +3860,15 @@ AnimeMap:
       title: Ouran Koukou Host Club
       type: tv
       tvdbid: 79713
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 861
+      title: xxxHOLiC
+      type: tv
+      tvdbid: 79283
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -5850,6 +5868,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 4918
+      title: xxxHOLiC Shunmuki
+      type: ova
+      tvdbid: 79283
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
     - malid: 4938
       title: 'Tsubasa: Shunraiki'
       type: ova
@@ -6367,6 +6394,15 @@ AnimeMap:
       tvdbid: 71361
       tvdbseason: 7
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 6864
+      title: xxxHOLiC Rou
+      type: ova
+      tvdbid: 79283
+      tvdbseason: 0
+      start: 4
       useMapping: false
       animeMapping: []
 
