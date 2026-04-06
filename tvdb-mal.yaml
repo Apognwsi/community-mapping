@@ -2504,6 +2504,23 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 392
+      title: Yuu☆Yuu☆Hakusho
+      type: tv
+      tvdbid: 76665
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 0
+        - tvdbseason: 2
+          start: 26
+        - tvdbseason: 3
+          start: 67
+        - tvdbseason: 4
+          start: 95
+
     - malid: 394
       title: 'Ai Yori Aoshi: Enishi'
       type: tv
@@ -3821,6 +3838,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 882
+      title: Yuu☆Yuu☆Hakusho (Movie)
+      type: movie
+      tvdbid: 76665
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 883
+      title: 'Yuu☆Yuu☆Hakusho: Meikai Shitou-hen - Honoo no Kizuna'
+      type: movie
+      tvdbid: 76665
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
     - malid: 889
       title: Black Lagoon
       type: tv
@@ -5111,6 +5146,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 2125
+      title: 'Yuu☆Yuu☆Hakusho: Eizou Hakusho - Ankoku Bujutsukai no Shou'
+      type: ova
+      tvdbid: 76665
+      tvdbseason: 0
+      start: 3
+      useMapping: false
+      animeMapping: []
+
+    - malid: 2126
+      title: 'Yuu☆Yuu☆Hakusho: Eizou Hakusho II'
+      type: ova
+      tvdbid: 76665
+      tvdbseason: 0
+      start: 6
+      useMapping: false
+      animeMapping: []
+
     - malid: 2153
       title: 'Saint Beast: Kouin Jojishi Tenshi Tan'
       type: tv
@@ -6287,6 +6340,15 @@ AnimeMap:
       tvdbid: 82099
       tvdbseason: 0
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 6964
+      title: Yuu☆Yuu☆Hakusho Picture Drama
+      type: special
+      tvdbid: 76665
+      tvdbseason: 0
+      start: 15
       useMapping: false
       animeMapping: []
 
@@ -7548,6 +7610,15 @@ AnimeMap:
       tvdbid: 257756
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 12455
+      title: 'Yuu☆Yuu☆Hakusho: Mu Mu Hakusho - Nightmare Hakusho'
+      type: ova
+      tvdbid: 76665
+      tvdbseason: 0
+      start: 10
       useMapping: false
       animeMapping: []
 
@@ -12414,6 +12485,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 36951
+      title: 'Yuu☆Yuu☆Hakusho: Two Shots/Noru ka Soru ka'
+      type: special
+      tvdbid: 76665
+      tvdbseason: 0
+      start: 17
+      useMapping: false
+      animeMapping: []
+
     - malid: 36962
       title: 'Shokugeki no Souma: San no Sara - Kyokuseiryou no Erina'
       type: ova
@@ -15618,6 +15698,15 @@ AnimeMap:
       tvdbid: 397831
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 42880
+      title: 'Yuu☆Yuu☆Hakusho: Eizou Hakusho - Opening Ending Encyclopedia'
+      type: special
+      tvdbid: 76665
+      tvdbseason: 0
+      start: 5
       useMapping: false
       animeMapping: []
 
