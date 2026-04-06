@@ -1004,6 +1004,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 177
+      title: Tsubasa Chronicle
+      type: tv
+      tvdbid: 76023
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 178
       title: Ultra Maniac
       type: tv
@@ -3749,6 +3758,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 807
+      title: 'Tsubasa Chronicle: Torikago no Kuni no Himegimi'
+      type: movie
+      tvdbid: 76023
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 808
       title: Bakuretsu Hunters OVA
       type: ova
@@ -4193,6 +4211,15 @@ AnimeMap:
       type: tv
       tvdbid: 83464
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 969
+      title: Tsubasa Chronicle 2nd Season
+      type: tv
+      tvdbid: 76023
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -5312,6 +5339,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 2685
+      title: 'Tsubasa: Tokyo Revelations'
+      type: ova
+      tvdbid: 76023
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
     - malid: 2745
       title: Jigoku Sensei Nube OVA
       type: ova
@@ -5811,6 +5847,15 @@ AnimeMap:
       tvdbid: 82311
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 4938
+      title: 'Tsubasa: Shunraiki'
+      type: ova
+      tvdbid: 76023
+      tvdbseason: 0
+      start: 5
       useMapping: false
       animeMapping: []
 
